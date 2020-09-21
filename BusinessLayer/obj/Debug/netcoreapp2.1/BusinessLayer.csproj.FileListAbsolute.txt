@@ -1,0 +1,8 @@
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\manoj\source\repos\MoqUnitTestApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
